@@ -21,7 +21,7 @@ $name=$b['name'];
 <body>
 <div id="banner">
 <span class="head">Library Management System</span><br />
-<marquee class="clg" direction="right" behavior="alternate" scrollamount="1">TECH VEGAN</marquee>
+<marquee class="clg" direction="right" behavior="alternate" scrollamount="1"></marquee>
 </div>
 <br />
 
@@ -46,3 +46,4 @@ $name=$b['name'];
 </div>
 </div>
 </body>
+<\html>
