@@ -70,4 +70,4 @@ while($y=mysqli_fetch_array($x))
 </div>
 </div>
 </body>
-<\html>
+</html>
